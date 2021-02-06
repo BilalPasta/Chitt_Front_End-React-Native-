@@ -1,0 +1,4 @@
+#Thu Apr 09 04:03:21 PDT 2020
+base.0=/Users/gamerz/Desktop/Tariq Project/frontend/Chitt_Front_End-React-Native-/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

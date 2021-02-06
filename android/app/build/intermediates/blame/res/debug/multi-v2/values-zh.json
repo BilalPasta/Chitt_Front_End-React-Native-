@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/gamerz/Desktop/Tariq Project/frontend/Chitt_Front_End-React-Native-/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/Users/gamerz/.gradle/caches/transforms-2/files-2.1/d94a69bb86a638b321341de2fea02e57/jetified-ucrop-2.2.2-native/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,109,163",
+                        "endColumns": "53,53,46",
+                        "endOffsets": "104,158,205"
+                    }
+                }
+            ]
+        }
+    ]
+}

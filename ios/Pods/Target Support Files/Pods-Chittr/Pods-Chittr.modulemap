@@ -1,0 +1,6 @@
+module Pods_Chittr {
+  umbrella header "Pods-Chittr-umbrella.h"
+
+  export *
+  module * { export * }
+}
